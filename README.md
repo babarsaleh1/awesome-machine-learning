@@ -21,6 +21,7 @@ Further resources:
 * For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
 ## Table of Contents
+* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
 
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
